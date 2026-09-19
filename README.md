@@ -12,27 +12,58 @@ I design and ship polished React interfaces — clear structure, smooth APIs, pr
 
 ---
 
-### Live portfolio
+### Featured destinations
 
-**[amirhossein-najafi.vercel.app](https://amirhossein-najafi.vercel.app)**  
-Dark editorial UI · GSAP · Lenis · EN / FA
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0B0F14?style=for-the-badge&labelColor=1A3D32&color=E4C078)](https://amirhossein-najafi.vercel.app)
-[![Daraei 360](https://img.shields.io/badge/Daraei_360-Production-0B0F14?style=for-the-badge&labelColor=1A3D32&color=3A7A64)](https://daraei.ai/)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Portfolio</h3>
+      <p>
+        Dark editorial UI · GSAP · Lenis · EN / FA<br/>
+        <a href="https://amirhossein-najafi.vercel.app"><b>amirhossein-najafi.vercel.app</b></a>
+      </p>
+      <p>
+        <a href="https://amirhossein-najafi.vercel.app"><img src="https://img.shields.io/badge/Visit_site-E4C078?style=for-the-badge&labelColor=10151C&color=E4C078" alt="Visit portfolio" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Daraei 360</h3>
+      <p>
+        Production frontend · Asset portfolio dashboard<br/>
+        <a href="https://daraei.ai/"><b>daraei.ai</b></a>
+      </p>
+      <p>
+        <a href="https://daraei.ai/"><img src="https://img.shields.io/badge/Live_product-3A7A64?style=for-the-badge&labelColor=10151C&color=3A7A64" alt="Visit Daraei" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### What I work with
+### Toolkit
 
-```text
-Frontend   React · Next.js · TypeScript · Redux · Tailwind
-Motion     GSAP · ScrollTrigger · Lenis
-Quality    Clean architecture · API integration · Responsive UI
-```
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=fff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff" alt="Vercel" />
+</p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,git,github,vercel" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,git,github,vercel&perline=11" alt="Skill icons" />
 </p>
+
+| Focus | Stack |
+|:------|:------|
+| **UI** | React · Next.js · TypeScript · Tailwind |
+| **State & data** | Redux · REST API integration |
+| **Motion** | GSAP · ScrollTrigger · Lenis |
 
 ---
 
