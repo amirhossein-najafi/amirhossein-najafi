@@ -54,8 +54,8 @@ Quality    Clean architecture · API integration · Responsive UI
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhossein-najafi&show_icons=true&theme=dark&hide_border=true&bg_color=080B0F&title_color=E4C078&icon_color=3A7A64&text_color=F5F1E8" width="420" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-najafi&layout=compact&theme=dark&hide_border=true&bg_color=080B0F&title_color=E4C078&text_color=F5F1E8" width="320" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhossein-najafi&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=080B0F&amp;title_color=E4C078&amp;icon_color=3A7A64&amp;text_color=F5F1E8" width="420" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-najafi&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=080B0F&amp;title_color=E4C078&amp;text_color=F5F1E8" width="320" alt="Top languages" />
 </p>
 
 <p align="center">
